@@ -1,2 +1,4 @@
 # ys
-my first repository
+my first repository  
+
+This is my first commit on github
